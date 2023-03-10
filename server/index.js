@@ -13,3 +13,5 @@ server.use('/public', express.static(__dirname + '/public'));
 
 // exportmos la instancia del server
 module.exports = { server };
+
+// codigo de backend
